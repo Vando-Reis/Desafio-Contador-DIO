@@ -1,18 +1,5 @@
-## Getting Started
+Desafio DIO - Contador
+Desafio proposto para melhor aproveitamento e aplicação do conteúdo disponibilizado . Digital Inovation One
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+💻💻 Resumo do Projeto
+Este programa solicita que o usuário insira dois números inteiros como parâmetros e realiza uma subtração do segundo parâmetro pelo primeiro. Em seguida, ele imprime cada valor do resultado em uma sequência crescente até chegar ao valor da subtração. Se o primeiro número for maior que o segundo, o programa exibe uma mensagem informando que o segundo número precisa ser maior.
